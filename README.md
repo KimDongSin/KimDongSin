@@ -1,7 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on metaPet<br>
-🌱 I’m currently learning Typescript, Next<br>
-💬 Ask me about Javascript/React<br>
+🌱 I am growing as a front-end developer with constant challenge and passion.<br>
 
 
 # 💻 Tech Stack:
@@ -13,6 +11,7 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
 # 📊 GitHub Stats:
