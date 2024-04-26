@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I am growing as a front-end developer with constant challenge and passion.<br>
-
+📰 blog here 👉 [github pages](https://kimdongsin.github.io/)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
