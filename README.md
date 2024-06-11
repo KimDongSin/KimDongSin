@@ -17,3 +17,11 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KimDongSin&theme=radical&hide_border=false)<br/>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/KimDongSin"
+  width="600"
+  height="300"
+/>
+</a>
